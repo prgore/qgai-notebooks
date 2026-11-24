@@ -1,0 +1,11 @@
+# Exact versions used to produce the published outputs (Python 3.13; sources also parse under 3.11)
+pennylane==0.45.1
+pennylane_lightning==0.45.0
+numpy==2.5.5
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+# to run notebooks or rebuild them with build.py
+ipykernel==7.4.0
+nbformat==5.11.1
+nbclient==0.11.0
